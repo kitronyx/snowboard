@@ -1,6 +1,6 @@
 /*
  Snowforce.ino
- Copyright (c) 2014 Kitronyx http://www.kitronyx.com
+ Copyright (c) 2014-2016 Kitronyx http://www.kitronyx.com
  GPL V3.0
 */
 
