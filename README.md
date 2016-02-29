@@ -1,2 +1,2 @@
-# snowborad
+# snowboard
 Snowboard Arduino firmware
