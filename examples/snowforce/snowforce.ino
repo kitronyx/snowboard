@@ -1,5 +1,6 @@
 /*
  Snowforce.ino
+ Get force data from onboard matrix controller and send it to PC.
  Copyright (c) 2014-2016 Kitronyx http://www.kitronyx.com
  GPL V3.0
 */
@@ -11,7 +12,7 @@ Snowforce snowforce;
 
 void setup()
 {
-    Wire.begin();   // start i2c communication
+    Wire.begin(); // start communication with the onboard force controller
     Serial.begin(115200);  // start serial for output
     snowforce.begin(); // start tactile sensing part of snowboard
 }
