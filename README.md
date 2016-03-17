@@ -14,3 +14,4 @@ Examples
 * `snowfsr` is to control multiple sigle zone FSRs.
 * `snowtouch` is an example of capacitive sensing feature of Snowboard
 * `trackpad_for_snowboard` is an trackpad example using capacitive sensing of snowboard.
+* `bluetooth_bluesmirf' is an example code to use Sparkfun's BlueSMiRF bluetooth module with Snowboard.
