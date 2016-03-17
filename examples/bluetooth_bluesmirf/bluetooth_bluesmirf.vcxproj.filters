@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bluetooth_bluesmirf.ino" />
+    <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.bluetooth_bluesmirf.vsarduino.h">

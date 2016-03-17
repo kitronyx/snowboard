@@ -51,7 +51,7 @@ void loop()
 	// note your bluetooth host must send an arbitrary single byte to get data.
 	if (Serial1.available() > 0)
 	{
-		int inByte = Serial1.read();
+		int inByte = Serial1.read(); // empty buffer.
 
 		snowforce.read(data);
 
