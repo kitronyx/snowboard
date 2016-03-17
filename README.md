@@ -1,6 +1,8 @@
 Snowboard Arduino library
 =========================
 
+![Original](res/snowboard.png)
+
 General
 -------
 
