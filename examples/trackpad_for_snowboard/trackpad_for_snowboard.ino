@@ -1,10 +1,11 @@
 /*
+ NOTE: THIS FIRMWARE IS NOT COMPATIBLE WITH SNOWBOARD 2.
  trackpad_for_snowboard.ino
  Single touch trackpad example for Snowboard.
  This example requires:
  * Snowboard http://www.kitronyx.com/snowboard.html
  * Capacitive trackpad for Snowboard http://www.kitronyx.com/store/p7/Capacitive_Trackpad_for_Snowboard.html
- Copyright (c) 2014 Kitronyx http://www.kitronyx.com
+ Copyright (c) 2014 - 2019 Kitronyx http://www.kitronyx.com
  GPL V3.0
 */
 
