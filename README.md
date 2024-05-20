@@ -7,7 +7,7 @@ Notice: Discontinuation of Snowboard
 ------------------------------------
 
 The Snowboard product has been discontinued and is no longer supported. We are maintaining this repository for archival purposes and to assist customers who previously purchased Snowboard.
-For those still interested in the features and functionality of 'Snowboard', we recommend considering our [Tinn](https://www.kitronyx.com/controller_Tinn) product as an alternative.
+For those still interested in the features and functionality of Snowboard, we recommend considering our [Tinn](https://www.kitronyx.com/controller_Tinn) product as an alternative.
 Thank you for your understanding and support.
 
 General
